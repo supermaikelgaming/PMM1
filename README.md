@@ -6,4 +6,4 @@ In this self project, i would like to try using power query to automate processe
 
 
 # Beginning
-I would like this to be applicable for the common work setting where usually data is pulled from database at a set time and usually there is a ton of data rows stored in the millions. Because of this, if we are using a common office laptop, it will bug out and be laggy. The dataset I'm currently trying to find is about deliveries where you need to do alot of VLOOKUPs manually. 
+I would like this to be applicable for the common work setting where usually data is pulled from database at a set time and usually there is a ton of data rows stored in the millions. Because of this, if we are using a common office laptop, it will bug out and be laggy. The dataset I'm using for this project is the Brazilian E-Commerce Public Dataset by Olist because it has more than one file with 100.000 rows to simulate. My aim for now in this project is to make the whole dataset into a whole master table using power query.
